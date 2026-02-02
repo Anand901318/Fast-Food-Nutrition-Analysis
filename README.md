@@ -43,6 +43,13 @@ This documentation ensures **transparency, clarity, and reproducibility** of the
 ---
 
 ## 📸 Dashboard Preview
+![Fast Food Menu Health Dashboard](Fast_Food_Analysis_screen_short.png)
+
+
+---
+
+
+## 📸 Dashboard Preview
 Dashboard screenshots are available in the **Screenshots** folder, showcasing:
 - Key KPIs (Average Calories, Fat %, Sodium, Protein)
 - Calories by restaurant
