@@ -1,4 +1,11 @@
-# Fast-Food-Menu-Health-Analysis
+## 📸 Dashboard Preview
+![Fast Food Menu Health Dashboard](Dashboard_Screenshot.png)
+
+
+---
+ 
+ 
+ # Fast-Food-Menu-Health-Analysis
 
 This project analyzes fast food menu nutrition data using Power BI. Data cleaning was performed using Power BI and Excel, followed by an interactive dashboard to evaluate calorie intake, fat contribution, sodium levels, protein content, and overall menu health across popular fast food restaurants.
 
@@ -41,13 +48,6 @@ It includes:
 This documentation ensures **transparency, clarity, and reproducibility** of the analysis.
 
 ---
-
-## 📸 Dashboard Preview
-![Fast Food Menu Health Dashboard](Fast_Food_Analysis_screen_short.png)
-
-
----
-
 
 ## 📸 Dashboard Preview
 Dashboard screenshots are available in the **Screenshots** folder, showcasing:
