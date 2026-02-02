@@ -12,6 +12,7 @@ The objective of this project is to analyze fast food nutrition data and identif
 ## 🛠 Tools & Technologies Used
 - Power BI (Data Cleaning, Data Modeling & Interactive Dashboard)
 - Microsoft Excel (Cleaned Dataset)
+- Microsoft Word (Data Cleaning Documentation)
 - CSV Dataset (Raw Nutrition Data)
 
 ---
@@ -21,9 +22,23 @@ The objective of this project is to analyze fast food nutrition data and identif
 - **Fast_Food_Raw_Data.csv** – Original raw fast food nutrition dataset used for analysis.  
 - **Cleaned_Data.xlsx** – Cleaned and structured dataset after data preparation (null handling, formatting, and transformations).  
 - **Fast_Food_Analysis.pbix** – Power BI file containing data cleaning steps and the final interactive dashboard (open this file to explore visuals).  
+- **Data_Cleaning_Documentation.docx** – Detailed documentation explaining each data cleaning and transformation step performed during analysis.  
 - **Screenshots/** – Folder containing dashboard screenshots for quick preview without opening Power BI.  
 - **README.md** – Project documentation and explanation.  
 - **LICENSE (MIT)** – Open-source license.
+
+---
+
+## 🧹 Data Cleaning Documentation
+The data cleaning process is fully documented in the **Data_Cleaning_Documentation.docx** file.  
+It includes:
+- Handling missing and null values  
+- Column formatting and data type corrections  
+- Removal of inconsistencies and duplicates  
+- Standardization of nutritional values  
+- Preparation of clean data for dashboard analysis  
+
+This documentation ensures **transparency, clarity, and reproducibility** of the analysis.
 
 ---
 
@@ -62,4 +77,3 @@ Health classification used:
 
 ## 📄 License
 This project is licensed under the MIT License.
-
